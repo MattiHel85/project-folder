@@ -1,1 +1,3 @@
-console.log("Connected");
+function startScript() {
+    console.log("Hello World");
+}
